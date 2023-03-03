@@ -1,0 +1,36 @@
+{
+  "name": "@watermark/image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "types": "./dist/types",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DODO7419/-watermark-image.git"
+  },
+  "keywords": [
+    "watermark-image"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DODO7419/-watermark-image/issues"
+  },
+  "homepage": "https://github.com/DODO7419/-watermark-image#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "@types/file-saver": "^2.0.5",
+    "babel-loader": "^9.1.2",
+    "clean-webpack-plugin": "^4.0.0",
+    "ts-loader": "^9.4.2",
+    "typescript": "^4.9.5",
+    "webpack": "^5.75.0"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5"
+  }
+}

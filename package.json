@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "watermark",
   "main": "./dist/main.js",
-  "types": "./dist/types",
+  "types": "./dist/types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

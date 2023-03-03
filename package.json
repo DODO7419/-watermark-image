@@ -1,7 +1,7 @@
 {
-  "name": "@watermark/image",
-  "version": "1.0.0",
-  "description": "",
+  "name": "watermark-image-ts",
+  "version": "1.0.1",
+  "description": "watermark",
   "main": "./dist/main.js",
   "types": "./dist/types",
   "scripts": {
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/DODO7419/-watermark-image.git"
   },
   "keywords": [
-    "watermark-image"
+    "watermark-image Image watermark canvas"
   ],
   "author": "",
   "license": "ISC",

@@ -13,10 +13,17 @@
     <div>
         添加水印
     </div>
+    <div onclick="down()">
+        下载
+    </div>
     <canvas id="canvas"></canvas>
 </body>
 <script>
     const obj = new Watermark(document.querySelector('#canvas'))
+    function down(){
+        console.log(obj)
+        obj.downFile();   
+    }
     obj.draw({
         img: './demo.png',
         text: "李文奇",

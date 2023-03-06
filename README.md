@@ -7,7 +7,7 @@ add a watermark in your image and set watermark text style also you can save ima
 # Installation
 
 ```
-  npm install  watermark-image --save
+  npm install  watermark-image-ts --save
 ```
 
 
